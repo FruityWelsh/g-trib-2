@@ -1,0 +1,10 @@
+{"image":"mcr.microsoft.com/devcontainers/go",
+"customizations": {
+    "vscode": {
+      "settings": {},
+      "extensions": ["redhat.vscode-yaml", 
+                     "kubescape.kubescape", 
+                     "vivaxy.vscode-conventional-commits"]
+    }
+  },
+}
